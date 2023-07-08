@@ -83,9 +83,9 @@ under the License.
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <sonar.host.url>http://54.89.156.108cd..:9000</sonar.host.url>
+        <sonar.host.url>http://54.89.156.108:9000</sonar.host.url>
       </properties>
     </profile>
     <!--End SonarQube/Sonar Profile-->
   </profiles>
-</settings>cd ~
+</settings>
